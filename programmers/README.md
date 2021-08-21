@@ -4,7 +4,7 @@
 
 ## 문제 출처
 
--https://programmers.co.kr/
+- https://programmers.co.kr/
 
 ## 1단계
 
