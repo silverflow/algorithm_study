@@ -12,4 +12,6 @@
 
 - `해시`[완주하지 못한 선수](https://github.com/silverflow/algorithm_study/blob/main/programmers/level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.ipynb)
 
-- [124 나라의 숫자]
+## 2단계
+
+- [124 나라의 숫자]()
